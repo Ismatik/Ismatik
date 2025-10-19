@@ -1,4 +1,4 @@
-## Hi there, I am Ismatullo👋
+## Hi there, I am Ismatullo 👋
 
 - Telegram Bot Developer</br>
 - 🔭 I’m currently working on ASR Leasing E-Wallet App Development </br>
