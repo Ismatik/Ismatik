@@ -10,6 +10,14 @@ I build useful products end to end, from Telegram automation bots to a productio
 - 👯 I'm looking to collaborate on Android apps, web platforms and Telegram bots
 - 💼 Open to **remote software development roles**
 
+## 🚀 Featured Projects
+| Project | What it is | Stack | Live |
+|---------|------------|-------|------|
+| [**Mehnat**](https://github.com/Ismatik/mehnat) | Two multilingual public websites for labor migrants with content admin panels and a shared user admin (Ministry of Labor, Migration and Employment of Tajikistan) | Next.js · Go · PostgreSQL · nginx · Docker | [mmashvarat.tj](https://mmashvarat.tj) · [a-khorijakor.tj](https://a-khorijakor.tj) |
+| [**Mavzunai Jovid**](https://github.com/Ismatik/mj_project) | Website, online booking, guest cabinet and salon CMS (masters, portfolio, gift cards, bonuses, payroll, Telegram/WhatsApp reminders) for a beauty salon in Dushanbe | Next.js · TypeScript · PostgreSQL · Prisma · Docker | [@mavzunaijovid_bot](https://t.me/mavzunaijovid_bot) |
+| [**Portfolio**](https://github.com/Ismatik/ismatik.github.io) | Interactive 3D "Portrait of a Developer" portfolio with a scroll-driven career timeline in EN / RU / TJ | React · TypeScript · three.js · Vite | [ismatik.github.io](https://ismatik.github.io) |
+| [**Ismat Assistant Bot**](https://github.com/Ismatik/assistant_bot) | Personal Telegram assistant: Gemini AI chat, music download from YouTube, to-do manager, weather | Python · aiogram · Google Gemini | [@ismat_assistant_bot](https://t.me/ismat_assistant_bot) |
+
 ## 💼 Experience
 | Role | Company | Period |
 |------|---------|--------|
@@ -40,9 +48,6 @@ English (professional) · Russian (professional)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ismatik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ismatik&icon=0&color=0)](https://visitcount.itsvg.in)
